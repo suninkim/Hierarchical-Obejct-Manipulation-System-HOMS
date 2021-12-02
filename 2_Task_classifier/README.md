@@ -11,3 +11,9 @@ As input to the neural network, images of the current state and the goal state a
 The algorithm learns through SAC-discrete, and CQL is applied because offline reinforcement learning is used.
 
 Supervised learning and learning of DQN are included for comparison with other algorithms.
+
+Learning proceeds with the following code.
+
+```p
+python train.py --cuda
+```
