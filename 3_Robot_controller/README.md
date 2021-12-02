@@ -11,3 +11,11 @@ As input to the neural network, the image of the current state, the robot state,
 The algorithm learns through SAC-continuous, and CQL and BC are applied because offline reinforcement learning is used.
 
 At this time, CQL and BC can be selected and applied, and TD3 can be used instead of SAC.
+
+Learning proceeds with the following code.
+
+```p
+python main.py --cuda --init_latent
+```
+
+--init latent means to use the learned VAE.
