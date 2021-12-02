@@ -4,7 +4,7 @@ This module is for performing unit tasks with a robot.
 
 The structure of the module is as follows.
 
-figure
+![RC_structure](https://user-images.githubusercontent.com/50347012/144417215-1d4d0a09-84f3-4001-bae1-6a9595486b2b.png)
 
 As input to the neural network, the image of the current state, the robot state, and the type of task are used.
 
