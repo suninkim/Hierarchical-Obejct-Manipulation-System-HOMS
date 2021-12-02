@@ -10,8 +10,7 @@ python rcan_data_gen.py
 ```
 Examples of generated data are as follows.
 
-figure
-
+![re_re_rcan_example](https://user-images.githubusercontent.com/50347012/144417232-f1dce3d0-0f52-4dc6-94ed-bf1f5fa97303.png)
 
 ## Offline RL dataset generation
 
